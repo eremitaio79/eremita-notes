@@ -163,26 +163,26 @@ Some of these words <ins>will be underlined</ins>.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Millenium Falcon](/assets/img/falcon.jpg)
 
 3. Close the file.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The best starship in Star Wars](/assets/img/falcon.jpg "San Juan Mountains")
 
 ### Imagens com Links
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+[![Millenium Falcon](/assets/img/falcon.jpg "The best staship in Star Wars")](https://github.com/eremitaio79)
 
 ### Tamanhos de Imagens
-<img src="image.png" width="200" height="100">
+<img src="/assets/img/falcon.jpg" width="200" height="100">
 
 ### Imagens com Legendas
 <figure>
-    <img src="/assets/images/albuquerque.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+    <img src="/assets/img/falcon.jpg"
+         alt="Millenium Falcon">
+    <figcaption>The best starship in Star Wars.</figcaption>
 </figure>
 
-![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
+![Albuquerque, New Mexico](/assets/img/falcon.jpg)
 *A single track trail outside of Albuquerque, New Mexico.*
 
 ### Linhas Horizontais
