@@ -57,7 +57,7 @@ Baixar os arquivos do Git
 git clone --branch <branch_name> <repository_url>
 ```
 ```
-git clone --branch dev-master [https://github.com/celkecursos/laravel-meu-projeto.git](https://github.com/eremitaio79/eremita-notes.git)
+git clone --branch dev-master https://github.com/eremitaio79/eremita-notes.git
 ```
 
 Verificar a branch
