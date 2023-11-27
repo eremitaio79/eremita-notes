@@ -1,5 +1,10 @@
 # Formatações em arquivos Markdown (.MD)
 
+### Comentários
+<!---
+Exemplo de comentário em arquivos markdown.
+--->
+
 ### Títulos
 <h1>Título H1</h1>
 <h2>Título H2</h2>
