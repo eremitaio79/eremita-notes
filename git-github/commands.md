@@ -104,7 +104,7 @@ git commit -m “commit de v1.0 para main” <enter>
 git push origin main <enter>
 ```
 
-## O comando abaixo
+## O comando git push --set-upstream
 ```
 git push --set-upstream origin prototype
 ```
