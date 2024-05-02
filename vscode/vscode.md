@@ -40,18 +40,14 @@
         "statusBar.background": "#505050",
         // "activityBar.activeFocusBorder": "#007acc"
         //"activityBar.border": "#007acc"
-
     },
-
     "intelephense.phpdoc.classTemplate": {
-
         "summary": "$1",
         "tags": [
             "@package ${1:$SYMBOL_NAMESPACE}"
         ]
     },
     "debug.javascript.terminalOptions": {
-
     },
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Visual Studio Light",
