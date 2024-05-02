@@ -1,7 +1,7 @@
 # Notas sobre Visual Studio Code
 
 ## Exemplo de personalização do arquivo settings.json
-
+```
 {
     "editor.fontSize": 14,
     "editor.fontWeight": "550",
@@ -69,3 +69,4 @@
     ],
     "editor.stickyScroll.enabled": false,
 }
+```
